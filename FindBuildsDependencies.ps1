@@ -1,5 +1,5 @@
 ﻿param(
-    [string]$TeamCityUrl       = 'https://teamcity.web.com',
+    [string]$TeamCityUrl       = 'https://teamcity.example.com',
     [string]$ApiToken,
     [string]$ProjectLink,
     [string]$BuildConfigLink
